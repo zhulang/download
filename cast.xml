@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>hapigo</title>
+        <item>
+            <title>0.0.8</title>
+            <pubDate>周二, 04 8月 2020 13:58:42 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zhulang/download/blob/master/HapiGo.zip" sparkle:version="1" sparkle:shortVersionString="0.0.8" length="3083492" type="application/octet-stream" sparkle:edSignature="J9RRQV+WtYMunAWeMDB9gvu44YImQ0e/b8HiTIxO9htJQYNYQnjV6RQLGTh55B37dr5ZtsqCX9rKm4SNbTUSAw=="/>
+        </item>
+    </channel>
+</rss>
